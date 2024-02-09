@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\bin\Debug\net8.0\multiplicationTable.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\bin\Debug\net8.0\multiplicationTable.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\bin\Debug\net8.0\multiplicationTable.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\bin\Debug\net8.0\multiplicationTable.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\bin\Debug\net8.0\multiplicationTable.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\multiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\multiplicationTable.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\multiplicationTable.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\refint\multiplicationTable.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\multiplicationTable.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\multiplicationTable.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\multiplicationTable\obj\Debug\net8.0\ref\multiplicationTable.dll
